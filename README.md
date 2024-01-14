@@ -6,7 +6,7 @@ This project contains a simple implementation of a linked list in JavaScript. It
 
 - `LinkedList.js`: Contains the implementation of the LinkedList class.
 - `Node.js`: Contains the implementation of the Node class.
-- `example-usage.js`: Provides an example usage of the LinkedList class.
+- `usage.js`: Provides an example usage of the LinkedList class.
 
 ## Usage
 
